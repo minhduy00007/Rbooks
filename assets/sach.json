@@ -1,0 +1,55 @@
+[
+    {
+        "ten_sach" : "Charlotte McConaghy",
+        "anh_bia" : "",
+        "tac_gia" : "Once There Were Wolves",
+        "ngay_xuat_ban" : "03/08/2021",
+        "the_loai" : ["Văn học & Hư cấu"],
+        "so_luot_doc" : "212k",
+        "so_luot_like": "25k",
+        "so_luot_rating": "241",
+        "so_chuong" : 4,
+        "last_update": "01/12/2023 06:22:00" ,
+        "gioi_thieu_sach": "Ngay Lập Tức Trở Thành Sách Bán Chạy Nhất Theo Bảng Xếp Hạng Của New York Times Từ tác giả của cuốn sách ăn khách quốc gia được yêu thích Migrations, một tiểu thuyết mới đầy kịch tính, lấy bối cảnh trong vùng cao nguyên hoang dã của xứ Scotland. Inti Flynn đến Scotland cùng với chị sinh đôi của mình, Aggie, để dẫn đầu một nhóm các nhà sinh vật học được giao nhiệm vụ tái giới thiệu mười bốn con sói xám vào vùng cao nguyên hẻo lánh. Cô hy vọng không chỉ chữa lành cảnh quan đang chết dần, mà còn chữa lành Aggie, người đã bị phá vỡ bởi những bí mật kinh hoàng đã đẩy hai chị em ra khỏi Alaska.Inti cũng không còn là người phụ nữ như trước, cô đã thay đổi bởi những tổn thương mà cô đã chứng kiến - những tổn thương do con người gây ra cho cả vùng đất hoang dã và lẫn nhau."
+    },
+    {
+        "ten_sach" : "Harry Potter và phòng chứa bí mật",
+        "anh_bia" : "",
+        "tac_gia" : "J.K.Rowling",
+        "ngay_xuat_ban" : "02/07/1998",
+        "the_loai" : ["Tiểu thuyết", "Hư cấu", "Huyền Ảo", "Phiêu lưu", "Giáo dục"],
+        "so_luot_doc" : "212k",
+        "so_luot_like": "25k",
+        "so_luot_rating": "241",
+        "so_chuong" : 4,
+        "last_update": "01/12/2023 06:22:00" ,
+        "gioi_thieu_sach": "Harry Potter và Phòng chứa Bí mật (tiếng Anh: Harry Potter and the Chamber of Secrets) là quyển thứ hai trong loạt truyện Harry Potter của J. K. Rowling. Truyện được phát hành bằng tiếng Anh tại Anh, Hoa Kỳ và nhiều nước khác vào ngày 2 tháng 7 năm 1998. Đến tháng 12 năm 2006 riêng tại Mỹ đã có khoảng 14.9 triệu bản được tiêu thụ. Bản dịch tiếng Việt được nhà văn Lý Lan dịch và xuất bản bởi Nhà xuất bản Trẻ thành 8 tập, in thành sách tháng 2 năm 2001."
+    },
+    {
+        "ten_sach" : "Đắc nhân tâm",
+        "anh_bia" : "",
+        "tac_gia" : "Dale Carnegie",
+        "ngay_xuat_ban" : "24/10/1936",
+        "the_loai" : ["Tâm lý", "Kỹ năng"],
+        "so_luot_doc" : "212k",
+        "so_luot_like": "25k",
+        "so_luot_rating": "241",
+        "so_chuong" : 4,
+        "last_update": "01/12/2023 06:22:00" ,
+        "gioi_thieu_sach": "'Đắc Nhân Tâm' của Dale Carnegie là một trong những cuốn sách phổ biến nhất về phát triển cá nhân và giao tiếp giữa con người. Xuất bản lần đầu tiên vào năm 1936, cuốn sách đã trở thành một nguồn cảm hứng quan trọng cho hàng triệu người trên khắp thế giới. Carnegie giới thiệu những nguyên tắc cơ bản và thực tế để giúp mọi người hiểu rõ hơn về bản chất của con người, cũng như cách tạo ra mối quan hệ tích cực và có ảnh hưởng. Với phong cách viết đơn giản, dễ hiểu, 'Đắc Nhân Tâm' vẫn là một nguồn tư duy quý báu về nghệ thuật giao tiếp và quản lý mối quan hệ."
+    },
+    {
+        "ten_sach" : "Nhà Giả Kim",
+        "anh_bia" : "",
+        "tac_gia" : "Paulo Coelho",
+        "ngay_xuat_ban" : "24/10/1936",
+        "the_loai" : ["Phiêu lưu", "Tiểu thuyết"],
+        "so_luot_doc" : "212k",
+        "so_luot_like": "25k",
+        "so_luot_rating": "241",
+        "so_chuong" : 4,
+        "last_update": "01/12/2023 06:22:00" ,
+        "gioi_thieu_sach": "Nhà Giả Kim của Paulo Coelho là một hành trình triết học đầy tưởng tượng về cuộc sống và ý nghĩa của chúng ta trên thế giới này. Câu chuyện xoay quanh Santiago, một chàng thanh niên quê ở Andalusia, Tây Ban Nha, đang theo đuổi giấc mơ của mình và dấn thân vào một cuộc phiêu lưu kỳ diệu. Được viết bằng ngôn ngữ tinh tế và đậm chất triết học, Nhà Giả Kim không chỉ là một cuốn sách, mà là một hành trình sâu sắc đến khám phá bản chất con người và ý nghĩa của cuộc sống."
+    }
+
+]

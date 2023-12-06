@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874486867914",
+    "project_id": "rbooks-5613a",
+    "storage_bucket": "rbooks-5613a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874486867914:android:189c1c58893568479fd133",
+        "android_client_info": {
+          "package_name": "com.langsapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-OMMHAK8tauROJw9nGD8_dDL176pMjUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

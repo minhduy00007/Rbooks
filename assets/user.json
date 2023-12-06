@@ -1,0 +1,34 @@
+[
+    {
+        "username" : "user1",
+        "password" : "123456789",
+        "ho_ten" : "Trần Công Minh",
+        "email" : "congminh0801@gmail.com",
+        "truyen_yeu_thich" : [],
+        "truyen_da_doc" : []
+    },
+    {
+        "username" : "user2",
+        "password" : "123456789",
+        "ho_ten" : "Nguyễn Minh Huy",
+        "email" : "congminh0801@gmail.com",
+        "truyen_yeu_thich" : [],
+        "truyen_da_doc" : []
+    },
+    {
+        "username" : "user3",
+        "password" : "123456789",
+        "ho_ten" : "Hoàng Vĩnh Tiến",
+        "email" : "congminh0801@gmail.com",
+        "truyen_yeu_thich" : [],
+        "truyen_da_doc" : []
+    },
+    {
+        "username" : "user4",
+        "password" : "123456789",
+        "ho_ten" : "Nguyễn Văn An",
+        "email" : "congminh0801@gmail.com",
+        "truyen_yeu_thich" : [],
+        "truyen_da_doc" : []
+    }
+]
